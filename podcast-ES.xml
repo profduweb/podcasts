@@ -30,6 +30,20 @@
         </itunes:category>
         <itunes:explicit>clean</itunes:explicit>
         <item>
+            <title>Test — Applications, plugins, lifehacking et calvados</title>
+            <link>http://www.spreaker.com/user/profduweb/es26-applications-plugins-lifehacking-et</link>
+            <description><![CDATA[Une nouvelle émission en solo avec toujours pleins d&#8217;astuces tech, lifehacking! Pour écouter l&#8217;émission appuyez sur le bouton lecture en dessous ou cliquez ici. Introduction Merci des retours, vous avez bien aimé le dernier épisode et je vous en remercie Technologie Dareboot: Testez, analysez et optimisez votre site web, Performance web, référencement, sécurité, qualité, etc https://www.dareboost.com/fr/home &#8230; <a href="https://eclectiqueshowdotcom.wordpress.com/2016/07/30/es26-des-applications-des-plugins-du-lifehacking-et-du-calvados/" class="more-link">Lire la suite <span class="meta-nav">&#8594;</span></a>]]></description>
+            <guid isPermaLink="false">http://api.spreaker.com/episode/9088120</guid>
+            <pubDate>Fri, 29 Jul 2016 23:55:30 +0000</pubDate>
+            <enclosure url="http://api.spreaker.com/download/episode/9088120/es26.mp3" length="0" type="audio/mpeg"></enclosure>
+            <itunes:author>Mat</itunes:author>
+            <itunes:subtitle>Toutes les notes de l'émissions sont ici : https://eclectiqueshowdotcom.wordpress.com/2016/07/30/es26-des-applications-des-plugins-du-lifehacking-et-du-calvados/</itunes:subtitle>
+            <itunes:summary>Toutes les notes de l'émissions sont ici : https://eclectiqueshowdotcom.wordpress.com/2016/07/30/es26-des-applications-des-plugins-du-lifehacking-et-du-calvados/</itunes:summary>
+            <itunes:duration>2585</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:image href="http://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7704f5edf5bf8761c37980f4570e4b69.jpg" />
+        </item>
+        <item>
             <title>ES26 — Applications, plugins, lifehacking et calvados</title>
             <link>http://www.spreaker.com/user/profduweb/es26-applications-plugins-lifehacking-et</link>
             <description>Toutes les notes de l'émissions sont ici : https://eclectiqueshowdotcom.wordpress.com/2016/07/30/es26-des-applications-des-plugins-du-lifehacking-et-du-calvados/</description>
