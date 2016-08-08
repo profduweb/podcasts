@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>L'éclectique SHOW</title>
+        <title>L'éclectique (test github)</title>
         <link>http://www.spreaker.com/show/leclectique-show</link>
         <description>Sujets diversifiés et éclectiques : technologie, communication numérique, podcasts, lifehacking, trucs, astuces, mobilité, smartphone, tablette, iphone, apple, mes humeurs et mon humour ! Par @profduweb</description>
         <atom:link href="http://www.spreaker.com/show/1360776/episodes/feed" rel="self" type="application/rss+xml"></atom:link>
